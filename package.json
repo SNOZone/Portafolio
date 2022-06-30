@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-sass": "node-sass --include-path scss sass/index.scss css/index2.css",
-    "watch-sass": "nodemon -e scss -x \"npm run build-sass\""
+    "build-css":"node-sass --include-path scss scss/index.scss css/index.css", 
+    "watch-css":"nodemon -e scss -x \"npm run build-css\""
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/SNOZone/Portafolio#readme",
   "devDependencies": {
     "node-sass": "^7.0.1",
-    "nodemon": "^2.0.17"
+    "nodemon": "^2.0.18"
   }
 }

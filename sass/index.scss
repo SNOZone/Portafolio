@@ -1,18 +1,18 @@
 /*MISC*/
-@import './misc/variables';
-@import './misc/mixins';
-@import './misc/normalize';
+@import url("/sass/misc/_variables.scss");
+@import url("/misc/_mixins.scss");
+@import url("/misc/_normalize.scss");
 
 /*PARTIALS*/
-@import './partials/header';
-@import './partials/footer';
+@import url("/partials/_header.scss");
+@import url("/partials/_footer.scss");
 
 /*VIEWS*/
-@import './views/home';
-@import './views/sobre_mi';
-@import './views/servicios';
-@import './views/portafolio';
-@import './views/contactame';
+@import url("/views/_home.scss");
+@import url("/views/_sobre_mi.scss");
+@import url("/views/_servicios.scss");
+@import url("/views/_portafolio.scss");
+@import url("/views/_contactame.scss");
 
 @import url('https://fonts.googleapis.com/css?family=Maven+Pro:400,700');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
