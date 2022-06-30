@@ -1,0 +1,18 @@
+/*MISC*/
+@import './misc/variables';
+@import './misc/mixins';
+@import './misc/normalize';
+
+/*PARTIALS*/
+@import './partials/header';
+@import './partials/footer';
+
+/*VIEWS*/
+@import './views/home';
+@import './views/sobre_mi';
+@import './views/servicios';
+@import './views/portafolio';
+@import './views/contactame';
+
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
