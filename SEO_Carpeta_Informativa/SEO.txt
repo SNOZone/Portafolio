@@ -1,0 +1,6 @@
+En el archivo index.html se sube el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: “¿Buscas apoyo en Diseño Gráfico y Diseño Web, SEO, Manejo de Redes Sociales y Marketing Digital? Hablame de tu proyecto aquí."
+Palabras Clave: A través de la etiqueta meta de name keywords agregué las palabras clave que quiero posicionar en los buscadores para que mi sitio sea facilmente encontrado.
+Encabezado: para el encabezado del h1 utilicé el texto “Hola mundo, soy” y lo complementé con palabras las siguientes palabras "Diseñador, Desarrollador, Emprendedor"
+Imagenes: a las imagenes se le agregó la etiqueta ALT para colocar una descripción que facilitará la busqueda de información en internet
+Mapa del sitio: Tambien se crea un mapa del sitio para que los buscadores y usuarios puedan realizar sus busquedas de forma sencilla
