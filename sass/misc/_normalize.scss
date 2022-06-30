@@ -4,7 +4,7 @@
 
 	body {
 		font-family: $font-base;
-		background: $color-fondo;
+		background: map-get($map: $colores, $key: $fondo);
 		padding-top: 70px;
 	}
 	
